@@ -22,11 +22,4 @@ AutoRepo is a PHP-based project designed to automate repository management tasks
 - Responsive UI with CSS
 - Advanced scripting with Hack
 
-## Installation
 
-To install this project, clone the repository and run the following commands:
-
-```bash
-git clone https://github.com/RakeshGedam/AutoRepo.git
-cd AutoRepo
-composer install
